@@ -6,7 +6,7 @@ A comprehensive machine learning project for predicting Airbnb listing prices in
 
 This project implements a robust price prediction system for Airbnb listings using multiple machine learning algorithms including Random Forest, XGBoost, and CatBoost. The model achieved strong predictive performance through sophisticated feature engineering, hyperparameter optimization, and ensemble methods.
 
-## 🚀 Key Features
+## Key Features
 
 - **Multiple Model Ensemble**: Combines Random Forest, XGBoost, and CatBoost for optimal predictions
 - **Advanced Feature Engineering**: Polynomial features, target encoding, and temporal feature extraction
